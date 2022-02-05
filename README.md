@@ -35,6 +35,7 @@ August 31st @ 6:30 pm - 7:30 pm
 - I had some trouble with loading the failed cards and mastered cards because they didn't have the number of cards at the beginning of the file, but after trying a couple different lines of code, I found one that works.
 - Took screenshots of the program working.
 
+------------------------------------------------------------------------
 
 ### Functionalities of the program:
 - The user can enter or add data.
@@ -47,7 +48,7 @@ August 31st @ 6:30 pm - 7:30 pm
 - The user can save their cards at any time, so they can access the same cards later.
 - The user can load cards from the saved card file, the master cards or the failed cards, giving them the ability to choose exactly what terms they would like to practice.
 
-
+-------------------------------------------------------------------------
 
 ### Testing & Possible Additions:
 - menu options (added an else statement to catch as many user inputs as possible)
